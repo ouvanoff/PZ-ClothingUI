@@ -1,0 +1,4 @@
+ContextMenu_TH = {
+	ContextMenu_Put_Assigned_Containers= "จัดเก็บตามที่เก็บที่จัดสรรไว้",
+	ContextMenu_Configure_Container= "จัดสรรที่เก็บของ",
+}
